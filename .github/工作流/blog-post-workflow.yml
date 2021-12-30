@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: leonuxzy/blog-post-workflow@main
+      - uses: gautamkrishnar/blog-post-workflow@main
         with:
           feed_list: "https://leonuxzy.github.io//atom.xml"
           max_post_count: 10
