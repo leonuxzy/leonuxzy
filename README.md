@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 1. Star this repo 😉 
 1. Go to your repository
 1. Add the following section to your **README.md** file, you can give whatever title you want. Just make sure that you use `<!-- BLOG-POST-LIST:START -->
+- [知识](http://example.com/2022/01/08/%E7%9F%A5%E8%AF%86/)
 - [如何提问](http://example.com/2021/12/30/%E5%A6%82%E4%BD%95%E6%8F%90%E9%97%AE/)
 - [从这个博客你能带走和留下什么？](http://example.com/2021/12/29/Top/)
 - [首师大774真题详解](http://example.com/2021/09/27/774%E7%9C%9F%E9%A2%98%E8%AF%A6%E8%A7%A3/)
