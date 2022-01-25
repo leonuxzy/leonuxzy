@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 
 📈 然后，如果你感兴趣，可以了解一下我最近更新的文章：
 <!-- BLOG-POST-LIST:START -->
-- [教育研究理论界定](https://leonuxzy.github.io/2022/01/20/%E6%95%99%E8%82%B2%E7%A0%94%E7%A9%B6%E5%BC%95%E8%AE%BA/)
 - [教育研究引论](https://leonuxzy.github.io/2022/01/20/%E6%95%99%E8%82%B2%E7%A0%94%E7%A9%B6%E7%90%86%E8%AE%BA%E7%95%8C%E5%AE%9A/)
 - [知识](https://leonuxzy.github.io/2022/01/08/%E7%9F%A5%E8%AF%86/)
 - [如何提问](https://leonuxzy.github.io/2021/12/30/%E5%A6%82%E4%BD%95%E6%8F%90%E9%97%AE/)
